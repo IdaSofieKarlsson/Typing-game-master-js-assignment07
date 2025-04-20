@@ -40,3 +40,8 @@ let score = 0;
 
 //Initializing time
 let time = 10;
+
+
+/*egna antackningar
+eventlisteners.mp4 10:00 - 11:02 "fånga" vad som skrivs i rutan, efter slagit enter
+*/
